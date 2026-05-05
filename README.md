@@ -1,6 +1,6 @@
 # lora-ppl-vs-model-size
 
-LoRA training / PPL evaluation on a narrow-domain technical dataset (geology, hydrometallurgy, gold processing)
+LoRA training and PPL evaluation on a technical dataset focused on gold mining, gold extraction, hydrometallurgy, flotation, and precious metals metallurgy.
 
 Изменение PPL в процессе LoRA-обучения моделей Qwen разного размера на корпусе узкой технической области.
 
