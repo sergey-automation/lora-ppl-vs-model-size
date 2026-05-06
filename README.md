@@ -344,7 +344,18 @@ Perplexity (PPL) показывает, насколько модели удоб�
 
 | Model | LoRA (epoch 1.00) |
 |---|---|
-| Qwen3-0.6B | (будет добавлено) |
-| Qwen3-4B | (будет добавлено) |
-| Qwen2.5-7B | (будет добавлено) |
-| Qwen3-14B | (будет добавлено) |
+| Qwen3-0.6B | [Folder](https://huggingface.co/Serhii1024/qwen-gold-mining-loras/tree/main/Qwen3-0.6B) |
+| Qwen3-4B | [Folder](https://huggingface.co/Serhii1024/qwen-gold-mining-loras/tree/main/Qwen3-4B) |
+| Qwen2.5-7B | [Folder](https://huggingface.co/Serhii1024/qwen-gold-mining-loras/tree/main/Qwen2.5-7B) |
+| Qwen3-14B | [Folder](https://huggingface.co/Serhii1024/qwen-gold-mining-loras/tree/main/Qwen3-14B) |
+## Author
+
+## Author
+Serhii Trykhlieb
+GitHub:
+https://github.com/sergey-automation
+HuggingFace:
+https://huggingface.co/Serhii1024
+LinkedIn:
+https://www.linkedin.com/in/trykhlieb-serhii
+
