@@ -352,10 +352,13 @@ Perplexity (PPL) показывает, насколько модели удоб�
 
 ## Author
 Serhii Trykhlieb
+
 GitHub:
 https://github.com/sergey-automation
+
 HuggingFace:
 https://huggingface.co/Serhii1024
+
 LinkedIn:
 https://www.linkedin.com/in/trykhlieb-serhii
 
