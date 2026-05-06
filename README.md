@@ -349,16 +349,11 @@ Perplexity (PPL) показывает, насколько модели удоб�
 | Qwen2.5-7B | [Folder](https://huggingface.co/Serhii1024/qwen-gold-mining-loras/tree/main/Qwen2.5-7B) |
 | Qwen3-14B | [Folder](https://huggingface.co/Serhii1024/qwen-gold-mining-loras/tree/main/Qwen3-14B) |
 ## Author
-
-## Author
 Serhii Trykhlieb
-
-GitHub:
+- GitHub:
 https://github.com/sergey-automation
-
-HuggingFace:
+- HuggingFace:
 https://huggingface.co/Serhii1024
-
-LinkedIn:
+- LinkedIn:
 https://www.linkedin.com/in/trykhlieb-serhii
 
